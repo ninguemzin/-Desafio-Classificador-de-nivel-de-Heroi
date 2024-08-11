@@ -1,6 +1,7 @@
 
 let partidasJogadas = 128
 let partidasPerdidas = 63
+
 let getPartidas = rank(partidasJogadas, partidasPerdidas);
 
 function rank(play, defeat) {
